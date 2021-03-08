@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main) //я ебал меня сосали
             //and another one
+        //вот ю вонт э
     }
 }
